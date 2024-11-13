@@ -1,0 +1,6 @@
+build
+!build/SDL*.dll
+
+cmake/
+
+.vscode/
